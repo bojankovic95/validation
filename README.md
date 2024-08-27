@@ -22,6 +22,7 @@ To set up and run this project locally, follow these steps:
 
 Clone the Repository
 https://github.com/bojankovic95/validation.git
+cd validation
 
 Install Dependencies
 
